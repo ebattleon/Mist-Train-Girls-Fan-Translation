@@ -1,0 +1,896 @@
+﻿[
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "104902",
+        "BGM": "adv_saintIris",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 1,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Queensway",
+        "Phrase": "「……だいぶミストトレインの近くまで戻ってきましたね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_001"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 2,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Vivienne",
+        "Phrase": "「でも、こっちのほうまで霧がかかってるわ。\\n　さっき通ったときは何もなかったのに……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_002"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 3,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Vivienne",
+        "Phrase": "「車掌さん、これって……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_003"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 4,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "かなり強い幻霧だ。これからもっと濃くなるだろう。\\n人の言葉を話すミストモンスターと遭遇したときと\\n同じような特殊な力を感じる。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 5,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Vivienne",
+        "Phrase": "「あんなのとまた戦うのはごめんね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 35201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_004"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 6,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "しかし、この霧の広がり方は異常だ。\\nこれだけ広範囲に霧がかかっているとなると、\\nミストトレインまで戻るあいだにかなりの数のミストモンスターと\\n出くわすことが予想される。戦闘は避けられないだろう。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 7,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "どこかに幻霧の発生源があるはずだが……。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 8,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「幻霧の発生源が、私たちの探していた\\n　『古代の機械部品』だったらまだ対策のしようがあるんだがな」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_005"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 9,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「だが、さっきのお前たちの話を聞いてもう一つの可能性が見えてきた。\\n　お前たちの言っていた『言葉を話すミストモンスター』だ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_006"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 10,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「濃い幻霧の中には多種多様なものが現れる。\\n　人の形をしているもの、見知らぬ機械の部品、\\n　言葉を司るミストモンスターなどその種類は多岐にわたる」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_007"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 11,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「それらに遭遇する確率は巨大樹に近づくにつれて増していく。\\n　お前たちが見たのはその領域に棲むモノだ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_008"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 12,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「巨大樹って、幻霧の発生源とも言われてるあの……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 4,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_009"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 13,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Putra",
+        "Phrase": "「確か、巨大樹周りの調査は全然進んでないんだよね。\\n　雲みたいに濃い霧があって人が立ち入れないって」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_010"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 14,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「お前たちの言っていたことが全て本当なら、\\n　そいつは恐らく『鉄路の探求者』。\\n　巨大樹の側に現れる超凶悪なミストモンスターだ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_011"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 15,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "『鉄路の探求者』……。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 16,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「車掌さん、ご存じなんですか？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 8,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_012"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 17,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "その言葉は初めて聞いた。\\nだが、記憶の奥底に何かそれに近いものが眠っているような気がする。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 18,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「もしかしたら呼び名が違うだけで、\\n　それと似たようなモノは見聞きしたことがあるのかもしれないな」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_013"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 19,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「『鉄路の探求者』は不滅のミストモンスターだ。\\n　倒しても倒しても現れる。\\n　根元を叩かなければ消滅はさせられない……まさに幻霧そのものだ。」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_014"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 20,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「あれ、でもその話……私知ってます。\\n　侍女のローザが言っていたような……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 4,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_015"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 1,
+        "GroupOrder": 21,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "Vivienne",
+        "Phrase": "「みんな、いったんお話はストップ！\\n　前方に敵……それもかなりの数だわ！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": 35201,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_016"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 22,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「これは早いところ列車に戻らないとマズそうだな。\\n　車掌、後方からの援護は任せるぞ！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300106_017"
+    }
+]

@@ -1,0 +1,1135 @@
+﻿[
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "104902",
+        "BGM": "adv_saintIris",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 1,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「この辺りが調査ポイントなのだが……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_001"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 2,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "Paddington",
+        "Phrase": "「もうずいぶん探していますけど、\\n　なかなか手がかりが見つかりませんね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": 0,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_002"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 3,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Vivienne",
+        "Phrase": "「Finchley教官、\\n　古代の機械部品ってどのくらいの大きさなの？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 8,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_003"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 4,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Finchley",
+        "Phrase": "「ものによって形状は様々だが、\\n　大きさに関しては目視で簡単に確認できるものがほとんどだ。\\n　一部の例外は除くが、探すのに苦労するような大きさではない」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_004"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 5,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Vivienne",
+        "Phrase": "「じゃあ、見つけづらい場所に落ちてるっていうことなのかしら」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_005"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 6,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "Yoshino",
+        "Phrase": "「あっちの草むらがあやしい」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": 24201,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_006"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 7,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Vivienne",
+        "Phrase": "「そうなの？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_007"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 8,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yoshino",
+        "Phrase": "「じしんはあるよ。\\nYoshino、呪術を使ったから」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 4,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_008"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 9,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 1,
+        "Name": "Yakutsk",
+        "Phrase": "「それさっき見てたけど、\\n　そのへんに落ちてた木の棒を倒しただけじゃない」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 2,
+                "EnterAction": 1,
+                "FacialExpression": 8,
+                "MCharacterId": 20201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_009"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": 5,
+        "FrameImage": 0,
+        "GroupOrder": 10,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Yoshino",
+        "Phrase": "「信じるか信じないかは、あなたしだいです」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 1
+            },
+            {
+                "Action": 7,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 20201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_010"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 11,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "Putra",
+        "Phrase": "「あたしは信じる！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": 13201,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 1
+            },
+            {
+                "Action": 8,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_011"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 12,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 16,
+        "Name": "Vivienne",
+        "Phrase": "「私は信じない」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 35201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_012"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 13,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Yoshino",
+        "Phrase": "「しゃしょーは？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 1
+            },
+            {
+                "Action": 1,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_013"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 14,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "信じるか信じないかで訊かれたら、信じない、だろうか。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 20201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 15,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Yoshino",
+        "Phrase": "「えー、Yoshinoの呪術がさくれつしてるかもしれないのに？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 24201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_014"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 16,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "たとえYoshinoが本当に呪術を使っていたとしても、\\nそこを調べようと無闇やたらに突っ込んでいったりはしない。\\n必ず全員で安全を確保し、いつでも戦えるような隊列を維持する。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 24201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 17,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "霧が出ていないからといって安心とは限らない。\\n幻霧はどこにでも現れる。\\n絶対に安全な場所などない。たとえ結界の中でもだ。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 18,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Finchley",
+        "Phrase": "「車掌の言う通りだ。\\n　『幻霧はどこにでも現れる』は基本中の基本。\\n　どれだけ腕に自信があっても、この基本は絶対に忘れるな」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_015"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 19,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Finchley",
+        "Phrase": "「お前たちも、いつか自分の部隊を率いるときが来るだろう。\\n　何十人、時には何百人という部下の命を預かる立場になったとき、\\n　この基本をどれだけ理解しているかによって部隊の生存率が大きく変わる」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_016"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 20,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Vivienne",
+        "Phrase": "「じゃあ、私たちが今も無事でいられるのは、\\n　指揮官である車掌さんのおかげね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 0,
+                "FacialExpression": 5,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_017"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 21,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Putra",
+        "Phrase": "「それは言えてるね。\\n　もし車掌さんがいなかったら、\\n　あたしたち今ごろ全員やられちゃってるよ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 5,
+                "MCharacterId": 13201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_018"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 22,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Finchley",
+        "Phrase": "「その車掌を守るのが特鉄隊の仕事でもあるんだぞ。\\n　車掌に頼ってばかりではこの先やっていけない。\\n　そのためにも、日々の訓練を怠らないことだ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 13201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_019"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 23,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「正論ね……いい教官だわ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 7,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_020"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 24,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「ええ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 2,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_021"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 25,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「車掌とFinchley教官がいてくれたら、私も安心だわ。\\n　でも、それじゃダメなのよね。\\n　あいつの言う通り、私たちが車掌を守れるようにならないと」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300104_022"
+    }
+]

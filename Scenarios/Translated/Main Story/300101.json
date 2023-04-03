@@ -1,0 +1,4213 @@
+﻿[
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "101802",
+        "BGM": "adv_02",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 1,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "The Special Steel Squad garrison is under the jurisdiction of the Allied Forces. \nSSS Train Knights, as well as aspiring train knight candidates, live here.",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 2,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "Even though they have been deployed in actual combat, the Train Knights still have a lot to learn. \nThus, when they are not deployed for missions, they gather at the academy building to attend classes and lectures.",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "105102",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 3,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Paddington",
+        "Phrase": "「Good morning, Conductor. You did a splendid job in battle the other day.」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 9,
+                "MCharacterId": 0,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_001"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 4,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "We barely survived our first engagement. \nSo now I've a keen interest to raise total strength of the SSs and myself.",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 0,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 5,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Paddington",
+        "Phrase": "「We need to develop not only our combat skills, but also knowledge of Phantom Mist. \nIn the Mist, we will never know what kind of enemy we will encounter...」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 0,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_002"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": 5,
+        "FrameImage": 0,
+        "GroupOrder": 6,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Paddington",
+        "Phrase": "「That's why they need to study at school on days they are not deployed! School life is part of their jobs！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 0,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_003"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 7,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Paddington",
+        "Phrase": "「It's part of our job...」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 0,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_004"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "adv_05",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 8,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 16,
+        "Name": "Putra",
+        "Phrase": "「So, there's this one gag at our Flamarine school that never fails to impress. \nIt's called the Tangled Seaweed impersonation.」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 1,
+                "FacialExpression": 9,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_005"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 9,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Yoshino",
+        "Phrase": "「Oh wow, tangled seaweed!\\n I would love to see it!　Do it Putra!　Do it!」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 1,
+                "Emotion": 4,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_006"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 10,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 16,
+        "Name": "Putra",
+        "Phrase": "「I can't help it then! Feast your eyes then, Yoshino.」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_007"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 11,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 16,
+        "Name": "Putra",
+        "Phrase": "「Vivienne、ちょっとあたしのお尻持ち上げて」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 1,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 2,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_008"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 12,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 1,
+        "Name": "Vivienne",
+        "Phrase": "「お、お尻を持ち上げる？\\n　いったい何をしようとしているのか全く予想できないんだけど……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_009"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 13,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 16,
+        "Name": "Putra",
+        "Phrase": "「いいからいいから！\\n　やってみればわかるよ！　さあ早く！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 9,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_010"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 14,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 1,
+        "Name": "Vivienne",
+        "Phrase": "「ちょっと、なんて体勢してるの！\\n　女の子なのにはしたないわよ！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 4,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_011"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 15,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Yoshino",
+        "Phrase": "「おおー！　Putra、せくしー！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 1,
+                "Emotion": 1,
+                "EnterAction": 0,
+                "FacialExpression": 5,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_012"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 16,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Paddington",
+        "Phrase": "「ええーっと……皆さん朝から元気がよろしいようで」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 0,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_013"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 17,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「ちょっと皆さん！\\n　もうすぐ授業が始まるんですからもうちょっとお静かに！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 3,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_014"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 18,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「放っておきなさいよ。\\n　朝から無駄な体力を使うことないわ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_015"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 19,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「ですが、こんなところを他の教官に見られたら……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_016"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 20,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「私たちの教官は車掌でしょ？\\n　何かあったら車掌が責任を取ってくれるわよ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_017"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 21,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "それはもちろんそうなのだが、だからといって\\n他の教官が特鉄隊メンバーに一切の口出しをしないというわけではない。\\n授業態度や生活態度を厳しく指導してくる教官もいる、\\nということを忘れないほうがいいだろう……。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 22,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「なるほど、じゃあ車掌は担任の先生っていうわけね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_018"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 23,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "その表現が一番適切かもしれない。\\nとはいえ、授業中は常に教室にいるので心配しないでほしい。\\n列車内でも教室でも、いつでも皆と一緒だ。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 24,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「問題は科目ごとの担当教官ですよ。\\n　噂によると、特鉄隊の戦闘訓練を担当するのは\\n　セントイリス騎士学校の教官だとか……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_019"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 25,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「それのどこが問題なのよ？\\n　騎士学校の教官ならQueenswayの顔見知りなんじゃない？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 8,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_020"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 26,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「私が知っている方だったら\\n　今すぐ席に着いて授業の準備を始めたほうがいいと思います。\\n　戦闘訓練の指導教官というと一人しか思い当たらなくて……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_021"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 27,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「騎士学校では『鬼教官』と呼ばれている厳しい方です。\\n　彼女を恐れて逃げ出す生徒もいるぐらいなんですよ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_022"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 28,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「鬼教官ねぇ……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_023"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": 5,
+        "FrameImage": 1,
+        "GroupOrder": 29,
+        "IsPhraseCenter": true,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「全員その場から動くな！」",
+        "PhraseFontSize": 3,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 8,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_024"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 30,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「へっ？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 4,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_025"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 31,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「や、やっぱり……。」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_026"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 32,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "ここで、本日の講義もしくは訓練を担当する教官の登場である。\\n残念ながら……Queenswayの予想は大当たりだ。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 33,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「一歩も動くんじゃない。\\n　微動だにするな。\\n　私がいいと言うまで石像のように固まれ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_027"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 34,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Putra",
+        "Phrase": "「固まれって！？　固まれって何！？\\n　ねえあたしの姿勢みてよコレ！　これで固まれる！？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_028"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 35,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Vivienne",
+        "Phrase": "「知らないわよ。\\n　Putraが変なポーズするのが悪いんでしょう」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_029"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 36,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Putra",
+        "Phrase": "「Vivienneだって手伝ったじゃん！\\n　これヤバいって！　関節が外れそう！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 1,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_030"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 37,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Vivienne",
+        "Phrase": "「ちょっ、こっち見ないでよ。\\n　笑っちゃうじゃない……くくっ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 2,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_031"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 38,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "手足を絡ませた状態で床に寝転んでいるPutra。\\nそれを見て興奮するYoshino。\\nPutraと目を合わせてしまい必死に笑いをこらえるVivienne。\\n『鬼教官』を前にして最悪のシチュエーションである。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 39,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「よーし、席に着いていないのは三人か。\\n　その三人以外は楽にしてよし」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_032"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 40,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Putra",
+        "Phrase": "「ふ～助かったぁ～」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 2,
+                "FacialExpression": 7,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_033"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 41,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「お前は違う！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 3,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_034"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 42,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Putra",
+        "Phrase": "「ですよね！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_035"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 43,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「お前は、Putraだな。\\n　なぜ妙な格好をしている？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_036"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 44,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Putra",
+        "Phrase": "「これは、その……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_037"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 45,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Putra",
+        "Phrase": "「なっ、仲間に一発芸を見せるためです！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 1,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_038"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 46,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「何の一発芸だ？\\n　絡まった海藻の物まねでもしてるのか？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 8,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_039"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 47,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Putra",
+        "Phrase": "「なんでわかるの！？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 4,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_040"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 48,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「なんとなくそんな形をしてたからだ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_041"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 49,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 1,
+        "Name": "Vivienne",
+        "Phrase": "「くくっ……そんな形って……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 1,
+                "FacialExpression": 5,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_042"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 50,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「おいVivienne、何を笑っている？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 4,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_043"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 51,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 1,
+        "Name": "Vivienne",
+        "Phrase": "「い、いいえ！　笑ってません！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 3,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 2,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_044"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 52,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Yoshino",
+        "Phrase": "「おおー、笑ってはいけないとくべつじゅぎょう……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 8,
+                "MCharacterId": 24201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_045"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 53,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "Vivienne",
+        "Phrase": "「Yoshino、ほんとやめて……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": 35201,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 24201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_046"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 54,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「ツボに入ったわね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 8,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_047"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 55,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 1,
+        "Name": "Yoshino",
+        "Phrase": "「ねえねえ、Putraのことは怒らないであげて？\\n　Yoshinoがどうしても見たいって言ったの。\\n　わるいのはYoshinoだから、代わりにYoshinoが変なポーズする。\\n　それでゆるしてほしい。Yoshinoからのおねがい」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 2,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 4,
+                "FacialExpression": 4,
+                "MCharacterId": 24201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_048"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 56,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「いや、私は別に変なポーズをさせたいわけではないのだが……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 24201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_049"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 57,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 1,
+        "Name": "Yoshino",
+        "Phrase": "「なら、Putraをふつうのたいせいに戻してあげてほしい。\\n　Putraはいま、げんかいを迎えようとしている」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 1,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 24201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_050"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 58,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 16,
+        "Name": "Putra",
+        "Phrase": "「そ、その通りであります！\\n　関節が、関節が……いででで！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 1,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 24201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_051"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 59,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 3,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 24201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_052"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 60,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「……とりあえず楽にしてよし」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 4,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 5,
+                "MCharacterId": 24201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_053"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 61,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 16,
+        "Name": "Putra",
+        "Phrase": "「ぷはーっ！　やったっ！　ありがとYoshino！\\n　右足の親指が左の脇に引っかかって大変だったよ～」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 1,
+                "Emotion": 1,
+                "EnterAction": 2,
+                "FacialExpression": 5,
+                "MCharacterId": 13201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 5,
+                "MCharacterId": 24201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_054"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 62,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Queensway",
+        "Phrase": "「右足の親指が左の脇に！？\\n　　いったいどうやったのでしょうか……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 4,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_055"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 63,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Finchley",
+        "Phrase": "「そんなこと真面目に考えなくていい！\\n　いつまでふざけているつもりだ！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 3,
+                "EnterAction": 1,
+                "FacialExpression": 8,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_056"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 64,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Queensway",
+        "Phrase": "「もっ、申し訳ありません！　Finchley教官！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 9201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 5,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_057"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 65,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "Putra&Vivienne",
+        "Phrase": "「Finchley教官？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 8,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 8,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_058"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 66,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "そう、彼女の名前はFinchley。\\nセントイリス騎士学校では『鬼教官』と呼ばれる有名な教官である。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 67,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「車掌、久しぶりだな。\\n　記念式典に出席できなくて済まなかった。\\n　ここしばらく現場での仕事も忙しくてな」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_059"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 68,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「しかし、もう少しタイミングを考慮してくれてもよかったのではないか？\\n　初日からこうして授業を任せてくれて大変ありがたいのだが、\\n　私としてはもう少し様子を見てから指導に当たりたかった」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_060"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 69,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "こちらにも色々と考えがあるのだ。\\nやりづらいとは思うが、Finchleyなら\\nきっと上手くやってくれると信じている。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 70,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「まったく、お前は私の扱いが上手いな。\\n　同じ特鉄隊のメンバーである仲間を指導するのは、\\n　普通の生徒を受け持つのとは勝手が違うのだぞ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_061"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 71,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Putra",
+        "Phrase": "「特鉄隊の仲間？\\n　ってことは、この人もトレインナイトなの？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 8,
+                "EnterAction": 1,
+                "FacialExpression": 1,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_062"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 72,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「ああ、そうだ。特鉄隊の正規発足に伴い、\\n　私もトレインナイトとしてミストトレインに乗車することになった」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_063"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 73,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「改めて自己紹介をさせてもらおう。\\n　今日からこの学校の教官を任されることになったFinchleyだ。\\n　担当は戦闘に関すること全般。\\n　幻霧との戦いについて幅広く指導していくことになる」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 13201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_064"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 74,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Yakutsk",
+        "Phrase": "「これはまた経験豊富そうな教官ね。面白そうだわ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_065"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 75,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Vivienne",
+        "Phrase": "「経験豊富って何の？　恋愛？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 8,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_066"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 76,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Yakutsk",
+        "Phrase": "「実戦経験に決まってるでしょ。\\n　何よレンアイって」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 1,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 6,
+                "MCharacterId": 20201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 8,
+                "MCharacterId": 35201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_067"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 77,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 16,
+        "Name": "Queensway",
+        "Phrase": "「Finchley教官は前線での任務を多く経験されています。\\n　実戦経験に基づいた指導をされるので、\\n　騎士学校の生徒たちから大人気なんですよ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 20201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 35201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_068"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 78,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「Queensway、久しぶりだな。\\n　こちらでもよろしく頼むぞ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_069"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 79,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「はい！　こちらこそよろしくお願いします！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 2,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_070"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 80,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「車掌、さっそく私の授業を始めてもいいか？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_071"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 81,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "もちろんだ。本鈴は鳴った。\\nすでにFinchleyの時間は始まっている。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 82,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「ありがとう」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 2,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_072"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 83,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「そういうわけだ。\\n　さっそく第一回目の授業を始めたいと思う」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 9,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_073"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 84,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Yakutsk",
+        "Phrase": "「楽しみね。\\n　いったいどんなことを教えてくれるのかしら？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 1,
+                "FacialExpression": 5,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_074"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 85,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「教科書の予習はしてあります！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 0,
+                "FacialExpression": 2,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 5,
+                "MCharacterId": 20201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_075"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 86,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「ああ、今日は教科書なんて使わないからしまっていいぞ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 2,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 7,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_076"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 87,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Queensway",
+        "Phrase": "「ええーっ！　たくさん予習してきたのに！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 3,
+                "Emotion": 2,
+                "EnterAction": 0,
+                "FacialExpression": 1,
+                "MCharacterId": 10201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_077"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 88,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Yoshino",
+        "Phrase": "「Queensway、どんまい」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 2,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 4,
+                "MCharacterId": 10201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 8,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_078"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 89,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 1,
+        "Name": "Finchley",
+        "Phrase": "「まずは皆の実力を確かめておきたいのだ。\\n　これから訓練場に移動して、模擬戦を行ってもらう。\\n　座学のつもりでいたが、急きょ予定変更だ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 10201,
+                "Position": 1
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 24201,
+                "Position": 3
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 5
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_079"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 90,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 8,
+        "Name": "Yakutsk",
+        "Phrase": "「ふふん、やってやろうじゃない。\\n　このYakutsk様の実力を見せてあげるわ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 1,
+                "FacialExpression": 5,
+                "MCharacterId": 20201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 1,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_080"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 91,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 2,
+        "Name": "Finchley",
+        "Phrase": "「やる気があって何よりだ。\\n　それでこそ特鉄隊だな」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 5,
+                "MCharacterId": 20201,
+                "Position": 2
+            },
+            {
+                "Action": 0,
+                "Emotion": 1,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 4
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_081"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 92,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「ところで車掌、この後のことなんだが……ちょっといいか？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 7,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_082"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 93,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "Finchleyは一枚の書状を取り出し、それをこちらに見せた。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 94,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 4,
+        "Name": "Finchley",
+        "Phrase": "「私もついさっき渡されたんだ。\\n　急な話で申し訳ないが、協力を頼む」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 4,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": "m_300101_083"
+    },
+    {
+        "BackgroundEffectType": 0,
+        "BackgroundImage": "",
+        "BGM": "",
+        "Effect": null,
+        "FrameImage": 0,
+        "GroupOrder": 95,
+        "IsPhraseCenter": false,
+        "IsSpeakingFlags": 0,
+        "Name": "",
+        "Phrase": "Finchleyが持ってきたのは指令書だった。\\nいったいなぜこのタイミングで……？\\n違和感を覚えつつ、特鉄隊の隊長としてその指令書を受け取った。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "SE": "",
+        "SpeechMCharacterId": null,
+        "StandCharacters": [
+            {
+                "Action": 0,
+                "Emotion": 0,
+                "EnterAction": 0,
+                "FacialExpression": 0,
+                "MCharacterId": 9201,
+                "Position": 3
+            }
+        ],
+        "StillDetail": {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraRotation": null,
+            "CameraWorkDuration": null,
+            "CameraZoomRatio": null
+        },
+        "ViewOrder": 1,
+        "VoiceFileName": ""
+    }
+]
